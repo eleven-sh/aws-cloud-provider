@@ -11,7 +11,7 @@
 eleven aws --profile production --region eu-west-3 init eleven-api --instance-type t2.medium
 ```
 <p align="center">
-  <img src="./assets/eleven_cli.png" alt="Example of use of the Eleven CLI" />
+  <img src="./assets/eleven_cli.png" alt="Example of use of the Eleven CLI" width="990" />
 </p>
 
 ## Table of contents
