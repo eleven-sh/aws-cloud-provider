@@ -1,0 +1,7 @@
+[default]
+region = default_region
+output = default_output
+
+[profile production]
+region = production_region
+output = production_output
