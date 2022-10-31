@@ -240,7 +240,7 @@ In other words:
 
 ## Infrastructure costs
 
-The costs of running a sandbox on AWS are essentially equal to the costs of the `EC2` instance and the `EBS` volume:
+The cost of running a sandbox on AWS is essentially equal to the cost of the `EC2` instance and the `EBS` volume:
 
 - For the `EC2` instance, the price depends on the instance type chosen.
 
